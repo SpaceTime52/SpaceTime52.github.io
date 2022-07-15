@@ -2,4 +2,4 @@
 
 github.io page
 
-[index.html](/index.html)
+[til.html](/til.html)
